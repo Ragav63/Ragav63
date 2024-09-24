@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Android(Kotlin)**
 
-- 👨‍💻 All of my projects are available at [My Website](https://hj0vff.csb.app/)
+- 👨‍💻 All of my projects are available at [My Website](https://hj0vff.csb.app/) ---->
 
 - 💬 Ask me about **Java, Android**
 
