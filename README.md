@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [My Website](https://hj0vff.csb.app/) ---->
 
-- 💬 Ask me about **Java, Android**
+- 💬 Ask me about **Java, Android, MySql, Firebase, Kotlin, Room**
 
 - 📫 How to reach me **arulragavendiran@gmail.com**
 
