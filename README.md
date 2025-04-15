@@ -12,7 +12,7 @@
 
 
 
- - 🔭 I’m currently working on **Streaming App**
+ - 🔭 I’m currently building career in Application Development.
 
 - 🌱 I’m currently learning **Android(Kotlin)**
 
