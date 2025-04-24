@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ragav63.io)
 <h1 align="center">Hi 👋, I'm Ragavendiran</h1>
-<h3 align="center">A passionate Java & Android developer from India</h3>
+<h3 align="center">A passionate Kotlin, Java & Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragav63&label=Profile%20views&color=0e75b6&style=flat" alt="ragav63" /> </p>
 
@@ -14,11 +14,11 @@
 
  - 🔭 I’m currently building career in Application Development.
 
-- 🌱 I’m currently learning **Android(Kotlin)**
+- 🌱 I’m currently learning **Android(JetPack Compose)**
 
 - 👨‍💻 All of my projects are available at [My Website](https://hj0vff.csb.app/) ---->
 
-- 💬 Ask me about **Java, Android, MySql, Firebase, Kotlin, Room**
+- 💬 Ask me about **Kotlin, Java, Android, MySql, Firebase, Room**
 
 - 📫 How to reach me **arulragavendiran@gmail.com**
 
@@ -41,7 +41,7 @@
 
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" alt="firebase" width="40" height="40"/>
   </a>
 
   <!-- Git -->
@@ -103,4 +103,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragav63&show_icons=true&locale=en" alt="ragav63" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragav63&" alt="ragav63" /></p>
