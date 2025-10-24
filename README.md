@@ -8,7 +8,7 @@
     <img alt="Coding" width="400" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA9NlXX3sTikqVXnUGxlnxVb76gbqe1ZwaWQ&s">
 </a>
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F79C22&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Experience+Android+Apps!;Transform+concepts+into+View!)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79C22&center=true&vCenter=true&width=425&lines=Welcome+to+my+GitHub!;Experience+Android+Apps!;Transform+concepts+into+View!)
 
 
 
